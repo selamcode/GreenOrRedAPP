@@ -1,5 +1,5 @@
 
-# openAi api key --> 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
+
 
 import tweepy
 import openai
