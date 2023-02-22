@@ -11,11 +11,11 @@
 ## Installation 
 ### use the python package manager [pip](https://pip.pypa.io/en/stable/) to install all dependencies 
 ### use pip for python 2 and pip3 for python 3
-'''bash
-  pip install tweepy '''
-'''bash
-  pip install openai '''
-'''bash
-  pip install pandas '''
-'''bash
-  pip install seaborn'''
+```bash
+  pip install tweepy ```
+```bash
+  pip install openai ```
+```bash
+  pip install pandas ```
+```bash
+  pip install seaborn```
